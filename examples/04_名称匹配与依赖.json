@@ -1,0 +1,9 @@
+{
+  "scope": "matched_with_dependencies",
+  "include_contains": [
+    "Document",
+    "Parser"
+  ],
+  "maximum_dependency_depth": 3,
+  "stable_mode": true
+}

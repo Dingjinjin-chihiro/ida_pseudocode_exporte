@@ -1,0 +1,11 @@
+{
+  "scope": "all_internal",
+  "stable_mode": true,
+  "write_active_checkpoint": true,
+  "auto_quarantine_previous_active_on_resume": true,
+  "clear_target_cache_after_each_function": true,
+  "clear_all_cache_interval": 1,
+  "python_gc_interval": 1,
+  "cooldown_milliseconds": 10,
+  "maximum_functions_per_session": 1000
+}

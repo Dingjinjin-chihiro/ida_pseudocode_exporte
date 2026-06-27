@@ -1,0 +1,8 @@
+{
+  "scope": "current_only",
+  "dry_run": true,
+  "stable_mode": true,
+  "group_files_by_batch": true,
+  "functions_per_batch_folder": 1000,
+  "group_files_by_class": true
+}

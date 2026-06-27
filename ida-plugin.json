@@ -1,0 +1,9 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "通用函数伪代码导出器",
+    "entryPoint": "ida_pseudocode_exporter.py",
+    "version": "3.5.0-ida93-pyside6-zh",
+    "description": "适用于 IDA Pro 9.3 的 PySide6 中文函数伪代码导出插件。支持 Hex-Rays 自动延迟加载、筛选、分类输出、批次目录、稳定性保护、断点续导，并新增独立的全部函数名称导出功能。"
+  }
+}

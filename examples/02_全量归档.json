@@ -1,0 +1,15 @@
+{
+  "scope": "all_internal",
+  "stable_mode": true,
+  "skip_imported_functions": true,
+  "skip_external_segments": true,
+  "skip_non_executable_segments": true,
+  "skip_ida_library_functions": true,
+  "skip_standard_cpp_names": true,
+  "skip_common_c_names": true,
+  "skip_runtime_helpers": true,
+  "group_files_by_batch": true,
+  "functions_per_batch_folder": 1000,
+  "group_files_by_class": true,
+  "class_folder_include_namespaces": true
+}
